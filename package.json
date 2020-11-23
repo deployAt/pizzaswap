@@ -1,0 +1,7 @@
+{
+  "name": "pizzaswap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nick@deploy.at",
+  "license": "MIT"
+}
